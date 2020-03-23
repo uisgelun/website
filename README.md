@@ -8,3 +8,7 @@ Adding changes for example
 ## Even  more changes
 
 Changes as part of an automatic merge example
+
+## Causing trouble
+
+Since I plan to edit the same file, this could cause a conflict
